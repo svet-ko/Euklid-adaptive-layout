@@ -13,3 +13,5 @@ Technologies:
   - media queries
 - javaScript (for burger menu, opening hidden tabs and search pop-up)
 - jQuery (for accordion)
+
+Link to the Github pages: [https://svet-ko.github.io/Euklid-adaptive-layout/](https://svet-ko.github.io/Euklid-adaptive-layout/)
