@@ -1,7 +1,7 @@
 # Euklid-adaptive-layout
-Adaptive layout of the site "Euclid" for any device from 320 to 3840 pixels in width.
+Adaptive layout of the site "EuKlid" for any device from 320 to 3840 pixels in width.
 
-Created adaptive layout of the site "Euclid" for any device from 320 to 3840 pixels in width. Made pixel perfect based on Figma layouts from Skillbox. The classes are named according to the BEM methodology. All states of interactive elements are implemented: hover, focus, active.
+Created adaptive layout of the site "EuKlid" for any device from 320 to 3840 pixels in width. Made pixel perfect based on Figma layouts from Skillbox. The classes are named according to the BEM methodology. All states of interactive elements are implemented: hover, focus, active.
 
 Technologies:
 - HTML5
